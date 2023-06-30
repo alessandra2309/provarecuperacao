@@ -1,0 +1,11 @@
+C:\Users\2022102020045\source\repos\provaAposentadoria\provaAposentadoria\obj\Debug\provaAposentadoria.csproj.AssemblyReference.cache
+C:\Users\2022102020045\source\repos\provaAposentadoria\provaAposentadoria\obj\Debug\provaAposentadoria.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020045\source\repos\provaAposentadoria\provaAposentadoria\obj\Debug\provaAposentadoria.Form1.resources
+C:\Users\2022102020045\source\repos\provaAposentadoria\provaAposentadoria\obj\Debug\provaAposentadoria.Properties.Resources.resources
+C:\Users\2022102020045\source\repos\provaAposentadoria\provaAposentadoria\obj\Debug\provaAposentadoria.csproj.GenerateResource.cache
+C:\Users\2022102020045\source\repos\provaAposentadoria\provaAposentadoria\obj\Debug\provaAposentadoria.csproj.CoreCompileInputs.cache
+C:\Users\2022102020045\source\repos\provaAposentadoria\provaAposentadoria\bin\Debug\provaAposentadoria.exe.config
+C:\Users\2022102020045\source\repos\provaAposentadoria\provaAposentadoria\bin\Debug\provaAposentadoria.exe
+C:\Users\2022102020045\source\repos\provaAposentadoria\provaAposentadoria\bin\Debug\provaAposentadoria.pdb
+C:\Users\2022102020045\source\repos\provaAposentadoria\provaAposentadoria\obj\Debug\provaAposentadoria.exe
+C:\Users\2022102020045\source\repos\provaAposentadoria\provaAposentadoria\obj\Debug\provaAposentadoria.pdb
